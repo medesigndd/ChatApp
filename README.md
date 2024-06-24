@@ -1,4 +1,4 @@
-# Chat App using React Native Expo and Firebase
+![167732465-f02c0dea-48db-4e23-ab26-90ca69115251](https://github.com/medesigndd/ChatApp/assets/7353308/8e3a73bb-f395-4c07-a921-a434d695b7e8)# Chat App using React Native Expo and Firebase
 
 ## How to clone
 
@@ -35,7 +35,7 @@ expo start
 
 Congratulations 🎉 Now you have a functional Chat App working locally
 
-![Miniature](https://user-images.githubusercontent.com/43630417/167732465-f02c0dea-48db-4e23-ab26-90ca69115251.png)
+![Uploading 167732465-f02c0dea-48db-4e23-ab26-90ca69115251.png…]()
 
 ## Known issues
 
